@@ -77,7 +77,7 @@ User-contributed shared Jupyter notebook demo (not officially supported): [![Dee
 
 ## Installation
 
-### Requirements
+### Requirement
 
   * Python 3.3+ or Python 2.7
   * macOS or Linux (Windows not officially supported, but might work)
@@ -277,7 +277,7 @@ See [this example](https://github.com/ageitgey/face_recognition/blob/master/exam
 If you have a lot of images and a GPU, you can also
 [find faces in batches](https://github.com/ageitgey/face_recognition/blob/master/examples/find_faces_in_batches.py).
 
-##### Automatically locate the facial features of a person in an image
+##### Automatically locate the facial features of the person in an image
 
 ```python
 import face_recognition
